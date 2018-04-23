@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #3ddadb;
+  }
+  
+  #container{
+    padding: 10px 10px 40px 10px;
+  }
+  
+  header {
+   background-image: url('http://www.img.lirent.net/2014/10/Google-Now-Wallpaper-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4em;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  h4{
+    color: #fcf168;
+  }
